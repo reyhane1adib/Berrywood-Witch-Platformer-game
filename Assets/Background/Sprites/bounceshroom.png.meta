@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: d6d063513e0d75f40be12cd39d4006a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bounceshroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 23, y: -14}
+        - {x: 9, y: -16}
+        - {x: 6, y: -30}
+        - {x: -6, y: -30}
+        - {x: -6, y: -16}
+        - {x: -23, y: -13}
+        - {x: -20, y: -4}
+        - {x: 1, y: 7}
+        - {x: 18, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b130c97f5e1b20e4ebf4b7b3e96dde67
+      internalID: 366885954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounceshroom_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -2}
+        - {x: -10, y: -2}
+        - {x: -19, y: -8}
+        - {x: -25, y: -14}
+        - {x: -18, y: -19}
+        - {x: -4, y: -20}
+        - {x: -7, y: -31}
+        - {x: 7, y: -30}
+        - {x: 5, y: -19}
+        - {x: 24, y: -17}
+        - {x: 24, y: -13}
+        - {x: 17, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeee9097a95dc34d87e051d2ac7519f
+      internalID: 471366350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounceshroom_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: -5}
+        - {x: -14, y: -5}
+        - {x: -25, y: -9}
+        - {x: -23, y: -14}
+        - {x: -15, y: -17}
+        - {x: -6, y: -19}
+        - {x: -7, y: -29}
+        - {x: 1, y: -31}
+        - {x: 7, y: -28}
+        - {x: 3, y: -20}
+        - {x: 21, y: -15}
+        - {x: 27, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83ec39809c41a49a5f5a8b4223c5f3
+      internalID: 1101640760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounceshroom_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 5}
+        - {x: -15, y: -4}
+        - {x: -24, y: -12}
+        - {x: -19, y: -17}
+        - {x: -6, y: -18}
+        - {x: -7, y: -29}
+        - {x: 8, y: -29}
+        - {x: 7, y: -17}
+        - {x: 18, y: -16}
+        - {x: 26, y: -12}
+        - {x: 13, y: -2}
+        - {x: 5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edebf209b797204b808040212711493
+      internalID: -610894981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounceshroom_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: -15}
+        - {x: -13, y: -18}
+        - {x: -5, y: -19}
+        - {x: -9, y: -29}
+        - {x: 6, y: -29}
+        - {x: 6, y: -20}
+        - {x: 18, y: -17}
+        - {x: 11, y: 1}
+        - {x: 5, y: 9}
+        - {x: -5, y: 8}
+        - {x: -14, y: -3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8983cb8d5945c814b9e466eff4d97ef9
+      internalID: 1822963813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bounceshroom_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -17, y: -2}
+        - {x: -20, y: -13}
+        - {x: -14, y: -18}
+        - {x: -6, y: -18}
+        - {x: -7, y: -30}
+        - {x: 7, y: -29}
+        - {x: 5, y: -20}
+        - {x: 19, y: -15}
+        - {x: 20, y: -6}
+        - {x: 9, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf02b165eab07b408ca907b70d51de8
+      internalID: -767707372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bounceshroom_0: 366885954
+      bounceshroom_1: 471366350
+      bounceshroom_2: 1101640760
+      bounceshroom_3: -610894981
+      bounceshroom_4: 1822963813
+      bounceshroom_5: -767707372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
