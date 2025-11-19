@@ -33,10 +33,10 @@ Screenshots
 ---
 Built With
 
-Unity 2022.3.62f1
-C#
-Aseprite / Pixel Art Tools
-Sound effects: Created with jsfxr
+- Unity 2022.3.62f1
+- C#
+- Aseprite / Pixel Art Tools
+- Sound effects: Created with jsfxr
 
 ---
 How to Play
@@ -46,13 +46,13 @@ How to Play
 3. Load *Main Scene*  
 4. Press ▶ Play
 
-You can use your keyboard and mouse or a controller to play 
+-You can use your keyboard and mouse or a controller to play 
 
 ---
 Cerdits 
 
-Game design & coding: Reyhane Adib
-with the help of gamedev.tv and Rick Davidson 
-Pixel art: AmberFallStudio
+- Game design & coding: Reyhane Adib
+- with the help of gamedev.tv and Rick Davidson 
+- Pixel art: AmberFallStudio
 
  
